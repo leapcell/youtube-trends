@@ -1,0 +1,6 @@
+flask
+gunicorn
+leapcell
+python-dotenv
+requests
+BeautifulSoup4
